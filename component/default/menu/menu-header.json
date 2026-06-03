@@ -1,0 +1,11 @@
+{
+  "menu-padding-x": {
+    "value": "{spacing-8}",
+    "type": "spacing"
+  },
+  "menu-heading-gap": {
+    "value": "{spacing-4}",
+    "type": "spacing",
+    "description": "spacing between back-action and menu-path"
+  }
+}

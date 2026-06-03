@@ -1,0 +1,14 @@
+{
+  "menu=path-marker-font": {
+    "value": "{text-xs}",
+    "type": "typography"
+  },
+  "menu=path-marker-font-active": {
+    "value": "{text-bold-xs}",
+    "type": "typography"
+  },
+  "menu-path-marker-color-text": {
+    "value": "{color-text-dark.color-text-dark-tertiary}",
+    "type": "color"
+  }
+}

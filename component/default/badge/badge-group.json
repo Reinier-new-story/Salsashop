@@ -1,0 +1,10 @@
+{
+  "badge-group-base-gap": {
+    "value": "{spacing-8}",
+    "type": "spacing"
+  },
+  "badge-group-sm-gap": {
+    "value": "{spacing-4}",
+    "type": "spacing"
+  }
+}

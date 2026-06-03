@@ -1,0 +1,26 @@
+{
+  "icon-spinner-primary-color-background": {
+    "value": "{color-primary.color-primary-100}",
+    "type": "color"
+  },
+  "icon-spinner-primary-color-circle": {
+    "value": "{color-primary.color-primary-100}",
+    "type": "color"
+  },
+  "icon-spinner-secondary-color-background": {
+    "value": "{color-secondary.color-secondary-100}",
+    "type": "color"
+  },
+  "icon-spinner-secondary-color-circle": {
+    "value": "{color-secondary.color-secondary-100}",
+    "type": "color"
+  },
+  "icon-spinner-on-dark-color-background": {
+    "value": "{color-base-white}",
+    "type": "color"
+  },
+  "icon-spinner-on-dark-color-circle": {
+    "value": "{color-base-white}",
+    "type": "color"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "chip-base-padding-x": {
+    "value": "{spacing-12}",
+    "type": "spacing"
+  },
+  "chip-sm-padding-x": {
+    "value": "{spacing-8}",
+    "type": "spacing"
+  },
+  "chip-base-padding-y": {
+    "value": "{spacing-6}",
+    "type": "spacing"
+  },
+  "chip-sm-padding-y": {
+    "value": "{spacing-4}",
+    "type": "spacing"
+  },
+  "chip-border-radius": {
+    "value": "{border-radius-full}",
+    "type": "borderRadius"
+  },
+  "chip-color-background": {
+    "value": "{color-primary.color-primary-25}",
+    "type": "color"
+  },
+  "chip-color-background-hover": {
+    "value": "{color-primary.color-primary-50}",
+    "type": "color"
+  },
+  "chip-color-background-active": {
+    "value": "{color-primary.color-primary-75}",
+    "type": "color"
+  },
+  "chip-color-text": {
+    "value": "{color-text-dark.color-text-dark-max}",
+    "type": "color"
+  },
+  "chip-color-icon": {
+    "value": "{color-text-dark.color-text-dark-max}",
+    "type": "color"
+  },
+  "chip-base-font": {
+    "value": {
+      "fontFamily": "{font-family-text}",
+      "fontWeight": "{font-weight-semi-bold}",
+      "fontSize": "{font-size-sm}",
+      "lineHeight": "{font-leading-none}",
+      "letterSpacing": "{font-tracking-wide}",
+      "textCase": "{font-textransform-lowercase}"
+    },
+    "type": "typography"
+  },
+  "chip-sm-font": {
+    "value": {
+      "fontFamily": "{font-family-text}",
+      "fontWeight": "{font-weight-semi-bold}",
+      "fontSize": "{font-size-xs}",
+      "lineHeight": "{font-leading-none}",
+      "letterSpacing": "{font-tracking-wider}",
+      "textCase": "{font-textransform-lowercase}"
+    },
+    "type": "typography"
+  },
+  "chip-base-font-emphasis": {
+    "value": {
+      "fontFamily": "{font-family-default}",
+      "fontWeight": "{font-weight-semi-bold}",
+      "fontSize": "{font-size-sm}",
+      "lineHeight": "{font-leading-none}",
+      "letterSpacing": "{font-tracking-wide}",
+      "textCase": "{font-textransform-uppercase}"
+    },
+    "type": "typography"
+  },
+  "chip-sm-font-emphasis": {
+    "value": {
+      "fontFamily": "{font-family-default}",
+      "fontWeight": "{font-weight-semi-bold}",
+      "fontSize": "{font-size-xs}",
+      "lineHeight": "{font-leading-none}",
+      "letterSpacing": "{font-tracking-wider}",
+      "textCase": "{font-textransform-uppercase}"
+    },
+    "type": "typography"
+  },
+  "chip-opacity-disabled": {
+    "value": "{opacity-disabled}",
+    "type": "opacity"
+  },
+  "chip-sm-gap": {
+    "value": "{spacing-4}",
+    "type": "spacing"
+  },
+  "chip-base-gap": {
+    "value": "{spacing-8}",
+    "type": "spacing"
+  }
+}

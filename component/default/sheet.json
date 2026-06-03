@@ -1,0 +1,54 @@
+{
+  "sheet-color-background": {
+    "value": "{color-base-white}",
+    "type": "color"
+  },
+  "sheet-color-border": {
+    "value": "{color-ui-25}",
+    "type": "color"
+  },
+  "sheet-border-radius": {
+    "value": "{border-radius-lg}",
+    "type": "borderRadius"
+  },
+  "sheet-padding": {
+    "value": "{spacing-24}",
+    "type": "spacing"
+  },
+  "sheet-gap": {
+    "value": "{spacing-24}",
+    "type": "spacing"
+  },
+  "sheet-sm-padding": {
+    "value": "{spacing-12}",
+    "type": "spacing"
+  },
+  "sheet-sm-gap": {
+    "value": "{spacing-12}",
+    "type": "spacing"
+  },
+  "sheet-sm-font-title": {
+    "value": "{heading-base}",
+    "type": "typography"
+  },
+  "sheet-font-title": {
+    "value": "{heading-large}",
+    "type": "typography"
+  },
+  "sheet-font-description": {
+    "value": "{text-base}",
+    "type": "typography"
+  },
+  "sheet-sm-font-description": {
+    "value": "{text-sm}",
+    "type": "typography"
+  },
+  "sheet-color-title": {
+    "value": "{color-text-dark.color-text-dark-primary}",
+    "type": "color"
+  },
+  "sheet-color-description": {
+    "value": "{color-text-dark.color-text-dark-tertiary}",
+    "type": "color"
+  }
+}

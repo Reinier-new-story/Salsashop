@@ -1,0 +1,90 @@
+{
+  "badge-base-padding-x": {
+    "value": "{spacing-12}",
+    "type": "spacing"
+  },
+  "badge-sm-padding-x": {
+    "value": "{spacing-8}",
+    "type": "spacing"
+  },
+  "badge-base-padding-y": {
+    "value": "{spacing-6}",
+    "type": "spacing"
+  },
+  "badge-sm-padding-y": {
+    "value": "{spacing-4}",
+    "type": "spacing"
+  },
+  "badge-border-radius": {
+    "value": "{border-radius-full}",
+    "type": "borderRadius"
+  },
+  "badge-color-background-error": {
+    "value": "{color-error.color-error-50}",
+    "type": "color"
+  },
+  "badge-color-background-success": {
+    "value": "{color-success.color-success-50}",
+    "type": "color"
+  },
+  "badge-color-background-accent": {
+    "value": "{color-accent.color-accent-75}",
+    "type": "color"
+  },
+  "badge-color-background-ui": {
+    "value": "{color-ui-75}",
+    "type": "color"
+  },
+  "badge-color-text": {
+    "value": "{color-text-dark.color-text-dark-max}",
+    "type": "color"
+  },
+  "badge-color-text-accent": {
+    "value": "{color-accent.color-accent-175}",
+    "type": "color"
+  },
+  "badge-base-font": {
+    "value": {
+      "fontFamily": "{font-family-default}",
+      "fontWeight": "{font-weight-semi-bold}",
+      "fontSize": "{font-size-sm}",
+      "lineHeight": "{font-leading-none}",
+      "letterSpacing": "{font-tracking-wide}",
+      "textCase": "{font-textransform-lowercase}"
+    },
+    "type": "typography"
+  },
+  "badge-sm-font": {
+    "value": {
+      "fontFamily": "{font-family-default}",
+      "fontWeight": "{font-weight-semi-bold}",
+      "fontSize": "{font-size-xs}",
+      "lineHeight": "{font-leading-none}",
+      "letterSpacing": "{font-tracking-wider}",
+      "textCase": "{font-textransform-lowercase}"
+    },
+    "type": "typography"
+  },
+  "badge-base-font-emphasis": {
+    "value": {
+      "fontFamily": "{font-family-default}",
+      "fontWeight": "{font-weight-semi-bold}",
+      "fontSize": "{font-size-sm}",
+      "lineHeight": "{font-leading-none}",
+      "letterSpacing": "{font-tracking-wide}",
+      "textCase": "{font-textransform-uppercase}"
+    },
+    "type": "typography"
+  },
+  "badge-sm-font-emphasis": {
+    "value": {
+      "fontFamily": "{font-family-default}",
+      "fontWeight": "{font-weight-semi-bold}",
+      "fontSize": "{font-size-xs}",
+      "lineHeight": "{font-leading-none}",
+      "letterSpacing": "{font-tracking-wider}",
+      "textCase": "{font-textransform-uppercase}"
+    },
+    "type": "typography"
+  }
+}

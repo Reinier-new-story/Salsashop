@@ -1,0 +1,14 @@
+{
+  "tooltip-trigger-gap": {
+    "value": "{spacing-2}",
+    "type": "spacing"
+  },
+  "tooltip-trigger-color-icon": {
+    "value": "{color-secondary.color-secondary-100}",
+    "type": "color"
+  },
+  "tooltip-trigger-color-icon-on-dark": {
+    "value": "{color-text-light.color-text-light-primary}",
+    "type": "color"
+  }
+}
