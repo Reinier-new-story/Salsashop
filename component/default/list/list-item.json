@@ -1,4 +1,16 @@
 {
+  "list-item-xl-gap": {
+    "value": "{spacing-10}",
+    "type": "spacing"
+  },
+  "list-item-2xl-gap": {
+    "value": "{spacing-12}",
+    "type": "spacing"
+  },
+  "list-item-3xl-gap": {
+    "value": "{spacing-14}",
+    "type": "spacing"
+  },
   "list-item-xs-gap": {
     "value": "{spacing-4}",
     "type": "spacing"
@@ -15,78 +27,66 @@
     "value": "{spacing-8}",
     "type": "spacing"
   },
-  "list-item-xl-gap": {
-    "value": "{spacing-10}",
-    "type": "spacing"
-  },
-  "list-item-2xl-gap": {
-    "value": "{spacing-12}",
-    "type": "spacing"
-  },
-  "list-item-3xl-gap": {
-    "value": "{spacing-14}",
-    "type": "spacing"
-  },
-  "list-item-xs-font": {
-    "value": {
-      "fontFamily": "{font-family-text}",
-      "fontWeight": "{font-weight-regular}",
-      "fontSize": "{font-size-xs}",
-      "lineHeight": "{font-leading-none}"
-    },
-    "type": "typography"
-  },
-  "list-item-sm-font": {
-    "value": {
-      "fontFamily": "{font-family-text}",
-      "fontWeight": "{font-weight-regular}",
-      "fontSize": "{font-size-sm}",
-      "lineHeight": "{font-leading-none}"
-    },
-    "type": "typography"
-  },
-  "list-item-base-font": {
-    "value": {
-      "fontFamily": "{font-family-text}",
-      "fontWeight": "{font-weight-regular}",
-      "fontSize": "{font-size-base}",
-      "lineHeight": "{font-leading-none}"
-    },
-    "type": "typography"
-  },
-  "list-item-lg-font": {
-    "value": {
-      "fontFamily": "{font-family-text}",
-      "fontWeight": "{font-weight-regular}",
-      "fontSize": "{font-size-lg}",
-      "lineHeight": "{font-leading-none}"
-    },
-    "type": "typography"
-  },
-  "list-item-xl-font": {
-    "value": {
-      "fontFamily": "{font-family-text}",
-      "fontWeight": "{font-weight-regular}",
-      "fontSize": "{font-size-xl}",
-      "lineHeight": "{font-leading-none}"
-    },
-    "type": "typography"
-  },
   "list-item-2xl-font": {
     "value": {
-      "fontFamily": "{font-family-text}",
-      "fontWeight": "{font-weight-regular}",
-      "fontSize": "{font-size-2xl}",
-      "lineHeight": "{font-leading-none}"
+      "fontSize": "24px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "400",
+      "lineHeight": "100%"
     },
     "type": "typography"
   },
   "list-item-3xl-font": {
     "value": {
-      "fontFamily": "{font-family-text}",
-      "fontWeight": "{font-weight-regular}",
-      "fontSize": "{font-size-3xl}",
-      "lineHeight": "{font-leading-none}"
+      "fontSize": "30px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "400",
+      "lineHeight": "100%"
+    },
+    "type": "typography"
+  },
+  "list-item-base-font": {
+    "value": {
+      "fontSize": "16px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "400",
+      "lineHeight": "100%"
+    },
+    "type": "typography"
+  },
+  "list-item-lg-font": {
+    "value": {
+      "fontSize": "18px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "400",
+      "lineHeight": "100%"
+    },
+    "type": "typography"
+  },
+  "list-item-sm-font": {
+    "value": {
+      "fontSize": "14px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "400",
+      "lineHeight": "100%"
+    },
+    "type": "typography"
+  },
+  "list-item-xl-font": {
+    "value": {
+      "fontSize": "20px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "400",
+      "lineHeight": "100%"
+    },
+    "type": "typography"
+  },
+  "list-item-xs-font": {
+    "value": {
+      "fontSize": "12px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "400",
+      "lineHeight": "100%"
     },
     "type": "typography"
   }

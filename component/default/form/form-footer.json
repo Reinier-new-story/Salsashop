@@ -1,15 +1,11 @@
 {
-  "form-footer-padding": {
-    "value": "{spacing-24}",
-    "type": "spacing"
-  },
   "form-footer-gap": {
     "value": "{spacing-12}",
     "type": "spacing"
   },
-  "form-footer-footnotes-font": {
-    "value": "{text-sm}",
-    "type": "typography"
+  "form-footer-padding": {
+    "value": "{spacing-24}",
+    "type": "spacing"
   },
   "form-footer-footnotes-gap": {
     "value": "{spacing-4}",
@@ -18,5 +14,9 @@
   "form-footer-footnotes-color-text": {
     "value": "{color-text-dark.color-text-dark-tertiary}",
     "type": "color"
+  },
+  "form-footer-footnotes-font": {
+    "value": "{text-sm}",
+    "type": "typography"
   }
 }

@@ -1,21 +1,5 @@
 {
-  "button-icon-primary-solid-color-background": {
-    "value": "{color-primary.color-primary-100}",
-    "type": "color"
-  },
-  "button-icon-primary-solid-color-background-hover": {
-    "value": "{color-primary.color-primary-125}",
-    "type": "color"
-  },
-  "button-icon-primary-solid-color-background-active": {
-    "value": "{color-primary.color-primary-150}",
-    "type": "color"
-  },
   "button-icon-primary-outline-color-background": {
-    "value": "transparent",
-    "type": "color"
-  },
-  "button-icon-primary-outline-color-background-hover": {
     "value": "transparent",
     "type": "color"
   },
@@ -23,11 +7,11 @@
     "value": "transparent",
     "type": "color"
   },
-  "button-icon-primary-text-color-background": {
+  "button-icon-primary-outline-color-background-hover": {
     "value": "transparent",
     "type": "color"
   },
-  "button-icon-primary-text-color-background-hover": {
+  "button-icon-primary-text-color-background": {
     "value": "transparent",
     "type": "color"
   },
@@ -35,11 +19,68 @@
     "value": "transparent",
     "type": "color"
   },
-  "button-icon-primary-solid-color-icon": {
-    "value": "{color-base-white}",
+  "button-icon-primary-text-color-background-hover": {
+    "value": "transparent",
     "type": "color"
   },
-  "button-icon-primary-solid-color-icon-hover": {
+  "button-icon-primary-outline-border": {
+    "value": {
+      "color": "oklch(0.624 0.218 30.8)",
+      "width": "1px"
+    },
+    "type": "border"
+  },
+  "button-icon-primary-outline-color-icon": {
+    "value": "{color-primary.color-primary-100}",
+    "type": "color"
+  },
+  "button-icon-primary-solid-color-background": {
+    "value": "{color-primary.color-primary-100}",
+    "type": "color"
+  },
+  "button-icon-primary-text-color-icon": {
+    "value": "{color-primary.color-primary-100}",
+    "type": "color"
+  },
+  "button-icon-primary-outline-border-hover": {
+    "value": {
+      "color": "oklch(0.545 0.195 30.8)",
+      "width": "1px"
+    },
+    "type": "border"
+  },
+  "button-icon-primary-outline-color-icon-hover": {
+    "value": "{color-primary.color-primary-125}",
+    "type": "color"
+  },
+  "button-icon-primary-solid-color-background-hover": {
+    "value": "{color-primary.color-primary-125}",
+    "type": "color"
+  },
+  "button-icon-primary-text-color-icon-hover": {
+    "value": "{color-primary.color-primary-125}",
+    "type": "color"
+  },
+  "button-icon-primary-outline-border-active": {
+    "value": {
+      "color": "oklch(0.460 0.165 28.0)",
+      "width": "1px"
+    },
+    "type": "border"
+  },
+  "button-icon-primary-outline-color-icon-active": {
+    "value": "{color-primary.color-primary-150}",
+    "type": "color"
+  },
+  "button-icon-primary-solid-color-background-active": {
+    "value": "{color-primary.color-primary-150}",
+    "type": "color"
+  },
+  "button-icon-primary-text-color-icon-active": {
+    "value": "{color-primary.color-primary-150}",
+    "type": "color"
+  },
+  "button-icon-primary-solid-color-icon": {
     "value": "{color-base-white}",
     "type": "color"
   },
@@ -47,49 +88,8 @@
     "value": "{color-base-white}",
     "type": "color"
   },
-  "button-icon-primary-outline-color-icon": {
-    "value": "{color-primary.color-primary-100}",
+  "button-icon-primary-solid-color-icon-hover": {
+    "value": "{color-base-white}",
     "type": "color"
-  },
-  "button-icon-primary-outline-color-icon-hover": {
-    "value": "{color-primary.color-primary-125}",
-    "type": "color"
-  },
-  "button-icon-primary-outline-color-icon-active": {
-    "value": "{color-primary.color-primary-150}",
-    "type": "color"
-  },
-  "button-icon-primary-text-color-icon": {
-    "value": "{color-primary.color-primary-100}",
-    "type": "color"
-  },
-  "button-icon-primary-text-color-icon-hover": {
-    "value": "{color-primary.color-primary-125}",
-    "type": "color"
-  },
-  "button-icon-primary-text-color-icon-active": {
-    "value": "{color-primary.color-primary-150}",
-    "type": "color"
-  },
-  "button-icon-primary-outline-border": {
-    "value": {
-      "color": "{color-primary.color-primary-100}",
-      "width": "{border-width-1}"
-    },
-    "type": "border"
-  },
-  "button-icon-primary-outline-border-hover": {
-    "value": {
-      "color": "{color-primary.color-primary-125}",
-      "width": "{border-width-1}"
-    },
-    "type": "border"
-  },
-  "button-icon-primary-outline-border-active": {
-    "value": {
-      "color": "{color-primary.color-primary-150}",
-      "width": "{border-width-1}"
-    },
-    "type": "border"
   }
 }

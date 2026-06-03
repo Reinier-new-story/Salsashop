@@ -1,31 +1,31 @@
 {
   "color-accent": {
-    "color-accent-25": {
-      "value": "{pumpkin.pumpkin-25}",
-      "type": "color"
-    },
-    "color-accent-50": {
-      "value": "{pumpkin.pumpkin-50}",
-      "type": "color"
-    },
-    "color-accent-75": {
-      "value": "{pumpkin.pumpkin-75}",
-      "type": "color"
-    },
     "color-accent-100": {
-      "value": "{pumpkin.pumpkin-100}",
+      "value": "{salsa-red.salsa-red-100}",
       "type": "color"
     },
     "color-accent-125": {
-      "value": "{pumpkin.pumpkin-125}",
+      "value": "{salsa-red.salsa-red-125}",
       "type": "color"
     },
     "color-accent-150": {
-      "value": "{pumpkin.pumpkin-150}",
+      "value": "{salsa-red.salsa-red-150}",
       "type": "color"
     },
     "color-accent-175": {
-      "value": "{pumpkin.pumpkin-175}",
+      "value": "{salsa-red.salsa-red-175}",
+      "type": "color"
+    },
+    "color-accent-25": {
+      "value": "{salsa-red.salsa-red-25}",
+      "type": "color"
+    },
+    "color-accent-50": {
+      "value": "{salsa-red.salsa-red-50}",
+      "type": "color"
+    },
+    "color-accent-75": {
+      "value": "{salsa-red.salsa-red-75}",
       "type": "color"
     }
   }

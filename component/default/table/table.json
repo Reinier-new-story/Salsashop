@@ -5,9 +5,9 @@
   },
   "table-border": {
     "value": {
+      "color": "oklch(0.777 0.000 0.0)",
       "style": "solid",
-      "width": "{border-width-1}",
-      "color": "{table-color-border}"
+      "width": "1px"
     },
     "type": "border"
   }

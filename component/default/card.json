@@ -1,10 +1,10 @@
 {
+  "card-border-radius": {
+    "value": "{border-radius-lg}",
+    "type": "borderRadius"
+  },
   "card-padding-none": {
     "value": "{spacing-0}",
-    "type": "spacing"
-  },
-  "card-padding-xs": {
-    "value": "{spacing-8}",
     "type": "spacing"
   },
   "card-padding-sm": {
@@ -23,36 +23,36 @@
     "value": "{spacing-32}",
     "type": "spacing"
   },
+  "card-padding-xs": {
+    "value": "{spacing-8}",
+    "type": "spacing"
+  },
   "card-border": {
     "value": {
-      "color": "{color-ui-25}",
-      "width": "{border-width-1}",
-      "style": "solid"
+      "color": "oklch(0.979 0.000 0.0)",
+      "style": "solid",
+      "width": "1px"
     },
     "type": "border"
-  },
-  "card-border-radius": {
-    "value": "{border-radius-lg}",
-    "type": "borderRadius"
-  },
-  "card-background-color": {
-    "value": "{color-base-white}",
-    "type": "color"
   },
   "card-border-color": {
     "value": "{color-ui-25}",
     "type": "color"
   },
-  "card-elevation-none": {
-    "value": "{shadow-none}",
-    "type": "boxShadow"
-  },
-  "card-elevation-1": {
-    "value": "{shadow-sm}",
-    "type": "boxShadow"
+  "card-background-color": {
+    "value": "{color-base-white}",
+    "type": "color"
   },
   "card-elevation-2": {
     "value": "{shadow-md}",
-    "type": "boxShadow"
+    "type": "shadow"
+  },
+  "card-elevation-none": {
+    "value": "{shadow-none}",
+    "type": "shadow"
+  },
+  "card-elevation-1": {
+    "value": "{shadow-sm}",
+    "type": "shadow"
   }
 }

@@ -1,10 +1,18 @@
 {
-  "tooltip-content-padding-x": {
-    "value": "{spacing-16}",
-    "type": "spacing"
+  "tooltip-content-width-max": {
+    "value": "240px",
+    "type": "sizing"
+  },
+  "tooltip-border-radius": {
+    "value": "{border-radius-base}",
+    "type": "borderRadius"
   },
   "tooltip-content-padding-y": {
     "value": "{spacing-12}",
+    "type": "spacing"
+  },
+  "tooltip-content-padding-x": {
+    "value": "{spacing-16}",
     "type": "spacing"
   },
   "tooltip-pointer-padding-x": {
@@ -15,31 +23,23 @@
     "value": "{spacing-8}",
     "type": "spacing"
   },
-  "tooltip-color-background": {
-    "value": "{color-base-white}",
+  "tooltip-color-text": {
+    "value": "{color-text-dark.color-text-dark-primary}",
     "type": "color"
-  },
-  "tooltip-border-radius": {
-    "value": "{border-radius-base}",
-    "type": "borderRadius"
   },
   "tooltip-border": {
     "value": {
-      "color": "{color-ui-50}",
-      "width": "{border-width-1}"
+      "color": "oklch(0.945 0.000 0.0)",
+      "width": "1px"
     },
     "type": "border"
   },
-  "tooltip-color-text": {
-    "value": "{color-text-dark.color-text-dark-primary}",
+  "tooltip-color-background": {
+    "value": "{color-base-white}",
     "type": "color"
   },
   "tooltip-font": {
     "value": "{text-sm}",
     "type": "typography"
-  },
-  "tooltip-content-width-max": {
-    "value": "240px",
-    "type": "sizing"
   }
 }

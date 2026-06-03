@@ -1,14 +1,14 @@
 {
-  "form-field-hint-font": {
-    "value": "{text-sm}",
-    "type": "typography"
+  "form-field-hint-gap": {
+    "value": "{spacing-4}",
+    "type": "spacing"
   },
   "form-field-hint-color-text-error": {
     "value": "{color-text-dark.color-text-dark-tertiary}",
     "type": "color"
   },
-  "form-field-hint-color-icon-error": {
-    "value": "{color-error.color-error-100}",
+  "form-field-hint-color-text-info": {
+    "value": "{color-text-dark.color-text-dark-tertiary}",
     "type": "color"
   },
   "form-field-hint-color-text-warning": {
@@ -19,16 +19,16 @@
     "value": "{color-warning.color-warning-100}",
     "type": "color"
   },
-  "form-field-hint-color-text-info": {
-    "value": "{color-text-dark.color-text-dark-tertiary}",
+  "form-field-hint-color-icon-error": {
+    "value": "{color-error.color-error-100}",
     "type": "color"
   },
   "form-field-hint-color-icon-info": {
     "value": "{color-info.color-info-100}",
     "type": "color"
   },
-  "form-field-hint-gap": {
-    "value": "{spacing-4}",
-    "type": "spacing"
+  "form-field-hint-font": {
+    "value": "{text-sm}",
+    "type": "typography"
   }
 }

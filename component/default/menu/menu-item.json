@@ -1,4 +1,12 @@
 {
+  "menu-item-label-description-gap": {
+    "value": "{spacing-0}",
+    "type": "spacing"
+  },
+  "menu-item-gap": {
+    "value": "{spacing-8}",
+    "type": "spacing"
+  },
   "menu-item-padding-x": {
     "value": "{spacing-8}",
     "type": "spacing"
@@ -7,38 +15,16 @@
     "value": "{spacing-8}",
     "type": "spacing"
   },
-  "menu-item-gap": {
-    "value": "{spacing-8}",
-    "type": "spacing",
-    "description": "spacing between label-description and trailing icon"
-  },
-  "menu-item-label-description-gap": {
-    "value": "{spacing-0}",
-    "type": "spacing",
-    "description": "spacing between label and description"
-  },
-  "menu-item-font-label": {
-    "value": "{text-bold-base}",
-    "type": "typography"
-  },
-  "menu-item-font-description": {
-    "value": "{text-xs}",
-    "type": "typography"
-  },
-  "menu-item-color-text-label": {
-    "value": "{color-primary.color-primary-100}",
+  "menu-item-color-icon": {
+    "value": "{color-text-dark.color-text-dark-primary}",
     "type": "color"
   },
   "menu-item-color-text-description": {
     "value": "{color-text-dark.color-text-dark-tertiary}",
     "type": "color"
   },
-  "menu-item-color-icon": {
-    "value": "{color-text-dark.color-text-dark-primary}",
-    "type": "color"
-  },
-  "menu-item-color-background": {
-    "value": "{color-base-white}",
+  "menu-item-color-text-label": {
+    "value": "{color-primary.color-primary-100}",
     "type": "color"
   },
   "menu-item-color-background-hover": {
@@ -53,16 +39,28 @@
     "value": "{color-ui-100}",
     "type": "color"
   },
-  "menu-item-border": {
-    "value": {
-      "color": "{menu-item-color-border}",
-      "width": "{border-width-1}",
-      "style": "solid"
-    },
-    "type": "border"
+  "menu-item-color-background": {
+    "value": "{color-base-white}",
+    "type": "color"
   },
   "menu-item-opacity-disabled": {
     "value": "{opacity-disabled}",
     "type": "opacity"
+  },
+  "menu-item-border": {
+    "value": {
+      "color": "oklch(0.777 0.000 0.0)",
+      "style": "solid",
+      "width": "1px"
+    },
+    "type": "border"
+  },
+  "menu-item-font-label": {
+    "value": "{text-bold-base}",
+    "type": "typography"
+  },
+  "menu-item-font-description": {
+    "value": "{text-xs}",
+    "type": "typography"
   }
 }

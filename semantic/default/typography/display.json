@@ -1,81 +1,81 @@
 {
-  "display-xs": {
-    "value": {
-      "fontFamily": "{font-family-display}",
-      "fontWeight": "{font-weight-regular}",
-      "lineHeight": "{font-leading-tight}",
-      "fontSize": "{font-size-3xl}",
-      "letterSpacing": "{font-tracking-normal}"
-    },
-    "type": "typography"
-  },
-  "display-sm": {
-    "value": {
-      "fontFamily": "{font-family-display}",
-      "fontWeight": "{font-weight-regular}",
-      "lineHeight": "{font-leading-tight}",
-      "fontSize": "{font-size-4xl}",
-      "letterSpacing": "{font-tracking-normal}"
-    },
-    "type": "typography"
-  },
   "display-base": {
     "value": {
-      "fontFamily": "{font-family-display}",
-      "fontWeight": "{font-weight-regular}",
-      "lineHeight": "{font-leading-none}",
-      "fontSize": "{font-size-7xl}",
-      "letterSpacing": "{font-tracking-normal}"
-    },
-    "type": "typography"
-  },
-  "display-lg": {
-    "value": {
-      "fontFamily": "{font-family-display}",
-      "fontWeight": "{font-weight-regular}",
-      "lineHeight": "{font-leading-none}",
-      "fontSize": "{font-size-8xl}",
-      "letterSpacing": "{font-tracking-normal}"
-    },
-    "type": "typography"
-  },
-  "display-emphasized-xs": {
-    "value": {
-      "fontFamily": "{font-family-display}",
-      "fontWeight": "{font-weight-bold}",
-      "lineHeight": "{font-leading-tight}",
-      "fontSize": "{font-size-3xl}",
-      "letterSpacing": "{font-tracking-normal}"
-    },
-    "type": "typography"
-  },
-  "display-emphasized-sm": {
-    "value": {
-      "fontFamily": "{font-family-display}",
-      "fontWeight": "{font-weight-bold}",
-      "lineHeight": "{font-leading-snug}",
-      "fontSize": "{font-size-4xl}",
-      "letterSpacing": "{font-tracking-normal}"
+      "fontSize": "72px",
+      "fontFamily": "Gill Sans Nova",
+      "fontWeight": "400",
+      "lineHeight": "100%",
+      "letterSpacing": "0em"
     },
     "type": "typography"
   },
   "display-emphasized-base": {
     "value": {
-      "fontFamily": "{font-family-display}",
-      "fontWeight": "{font-weight-bold}",
-      "lineHeight": "{font-leading-none}",
-      "fontSize": "{font-size-7xl}",
-      "letterSpacing": "{font-tracking-normal}"
+      "fontSize": "72px",
+      "fontFamily": "Gill Sans Nova",
+      "fontWeight": "700",
+      "lineHeight": "100%",
+      "letterSpacing": "0em"
     },
     "type": "typography"
   },
   "display-emphasized-lg": {
     "value": {
-      "fontFamily": "{font-family-display}",
-      "fontWeight": "{font-weight-bold}",
-      "lineHeight": "{font-leading-none}",
-      "fontSize": "{font-size-8xl}",
-      "letterSpacing": "{font-tracking-normal}"
+      "fontSize": "96px",
+      "fontFamily": "Gill Sans Nova",
+      "fontWeight": "700",
+      "lineHeight": "100%",
+      "letterSpacing": "0em"
+    },
+    "type": "typography"
+  },
+  "display-emphasized-sm": {
+    "value": {
+      "fontSize": "36px",
+      "fontFamily": "Gill Sans Nova",
+      "fontWeight": "700",
+      "lineHeight": "137.5%",
+      "letterSpacing": "0em"
+    },
+    "type": "typography"
+  },
+  "display-emphasized-xs": {
+    "value": {
+      "fontSize": "30px",
+      "fontFamily": "Gill Sans Nova",
+      "fontWeight": "700",
+      "lineHeight": "125%",
+      "letterSpacing": "0em"
+    },
+    "type": "typography"
+  },
+  "display-lg": {
+    "value": {
+      "fontSize": "96px",
+      "fontFamily": "Gill Sans Nova",
+      "fontWeight": "400",
+      "lineHeight": "100%",
+      "letterSpacing": "0em"
+    },
+    "type": "typography"
+  },
+  "display-sm": {
+    "value": {
+      "fontSize": "36px",
+      "fontFamily": "Gill Sans Nova",
+      "fontWeight": "400",
+      "lineHeight": "125%",
+      "letterSpacing": "0em"
+    },
+    "type": "typography"
+  },
+  "display-xs": {
+    "value": {
+      "fontSize": "30px",
+      "fontFamily": "Gill Sans Nova",
+      "fontWeight": "400",
+      "lineHeight": "125%",
+      "letterSpacing": "0em"
     },
     "type": "typography"
   }

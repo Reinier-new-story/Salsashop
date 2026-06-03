@@ -1,16 +1,4 @@
 {
-  "size-icon-sm": {
-    "value": "{size-14}",
-    "type": "sizing"
-  },
-  "size-icon-base": {
-    "value": "{size-16}",
-    "type": "sizing"
-  },
-  "size-icon-8": {
-    "value": "{size-8}",
-    "type": "sizing"
-  },
   "size-icon-10": {
     "value": "{size-10}",
     "type": "sizing"
@@ -19,7 +7,15 @@
     "value": "{size-12}",
     "type": "sizing"
   },
+  "size-icon-sm": {
+    "value": "{size-14}",
+    "type": "sizing"
+  },
   "size-icon-16": {
+    "value": "{size-16}",
+    "type": "sizing"
+  },
+  "size-icon-base": {
     "value": "{size-16}",
     "type": "sizing"
   },
@@ -49,6 +45,10 @@
   },
   "size-icon-64": {
     "value": "{size-64}",
+    "type": "sizing"
+  },
+  "size-icon-8": {
+    "value": "{size-8}",
     "type": "sizing"
   },
   "size-icon-80": {

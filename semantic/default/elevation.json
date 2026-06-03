@@ -1,38 +1,26 @@
 {
-  "elevation-none": {
-    "value": {
-      "boxShadow": "{shadow-none}"
-    },
-    "type": "composition"
-  },
-  "elevation-1": {
-    "value": {
-      "boxShadow": "{shadow-sm}"
-    },
-    "type": "composition"
-  },
-  "elevation-2": {
-    "value": {
-      "boxShadow": "{shadow-md}"
-    },
-    "type": "composition"
+  "elevation-5": {
+    "value": "{shadow-2xl}",
+    "type": "shadow"
   },
   "elevation-3": {
-    "value": {
-      "boxShadow": "{shadow-lg}"
-    },
-    "type": "composition"
+    "value": "{shadow-lg}",
+    "type": "shadow"
+  },
+  "elevation-2": {
+    "value": "{shadow-md}",
+    "type": "shadow"
   },
   "elevation-4": {
-    "value": {
-      "boxShadow": "{shadow-xl}"
-    },
-    "type": "composition"
+    "value": "{shadow-xl}",
+    "type": "shadow"
   },
-  "elevation-5": {
-    "value": {
-      "boxShadow": "{shadow-2xl}"
-    },
-    "type": "composition"
+  "elevation-none": {
+    "value": "{shadow-none}",
+    "type": "shadow"
+  },
+  "elevation-1": {
+    "value": "{shadow-sm}",
+    "type": "shadow"
   }
 }

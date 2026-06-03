@@ -1,83 +1,84 @@
 {
-  "rich-text-p": {
-    "value": {
-      "fontFamily": "{font-family-default}",
-      "fontWeight": "{font-weight-regular}",
-      "lineHeight": "{font-leading-tight}",
-      "fontSize": "{font-size-base}"
-    },
-    "type": "typography"
-  },
   "rich-text-a": {
     "value": {
-      "fontFamily": "{font-family-default}",
-      "fontWeight": "{font-weight-regular}",
-      "lineHeight": "{font-leading-tight}",
-      "fontSize": "{font-size-base}",
-      "textDecoration": "{font-textdecoration-underline}"
+      "fontSize": "16px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "400",
+      "lineHeight": "125%",
+      "textDecoration": "underline"
     },
     "type": "typography"
   },
   "rich-text-blockquote": {
     "value": {
-      "fontFamily": "{font-family-default}",
-      "fontWeight": "{font-weight-italic}",
-      "lineHeight": "{font-leading-tight}",
-      "fontSize": "{font-size-lg}"
+      "fontSize": "18px",
+      "fontStyle": "italic",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "400",
+      "lineHeight": "125%"
+    },
+    "type": "typography"
+  },
+  "rich-text-p": {
+    "value": {
+      "fontSize": "16px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "400",
+      "lineHeight": "125%"
     },
     "type": "typography"
   },
   "rich-text-h1": {
     "value": {
-      "fontFamily": "{font-family-heading}",
-      "fontWeight": "{font-weight-bold}",
-      "lineHeight": "{font-leading-tight}",
-      "fontSize": "{font-size-5xl}"
+      "fontSize": "48px",
+      "fontFamily": "Gill Sans Nova",
+      "fontWeight": "700",
+      "lineHeight": "125%"
     },
     "type": "typography"
   },
   "rich-text-h2": {
     "value": {
-      "fontFamily": "{font-family-heading}",
-      "fontWeight": "{font-weight-bold}",
-      "lineHeight": "{font-leading-tight}",
-      "fontSize": "{font-size-4xl}"
+      "fontSize": "36px",
+      "fontFamily": "Gill Sans Nova",
+      "fontWeight": "700",
+      "lineHeight": "125%"
     },
     "type": "typography"
   },
   "rich-text-h3": {
     "value": {
-      "fontFamily": "{font-family-heading}",
-      "fontWeight": "{font-weight-bold}",
-      "lineHeight": "{font-leading-tight}",
-      "fontSize": "{font-size-3xl}"
+      "fontSize": "30px",
+      "fontFamily": "Gill Sans Nova",
+      "fontWeight": "700",
+      "lineHeight": "125%"
     },
     "type": "typography"
   },
   "rich-text-h4": {
     "value": {
-      "fontFamily": "{font-family-heading}",
-      "fontWeight": "{font-weight-bold}",
-      "lineHeight": "{font-leading-tight}",
-      "fontSize": "{font-size-2xl}"
+      "fontSize": "24px",
+      "fontFamily": "Gill Sans Nova",
+      "fontWeight": "700",
+      "lineHeight": "125%"
     },
     "type": "typography"
   },
   "rich-text-h5": {
     "value": {
-      "fontFamily": "{font-family-heading}",
-      "fontWeight": "{font-weight-bold}",
-      "lineHeight": "{font-leading-tight}",
-      "fontSize": "{font-size-xl}"
+      "fontSize": "20px",
+      "fontFamily": "Gill Sans Nova",
+      "fontWeight": "700",
+      "lineHeight": "125%"
     },
     "type": "typography"
   },
   "rich-text-h6": {
     "value": {
-      "fontFamily": "{font-family-heading}",
-      "fontWeight": "{font-weight-bold}",
-      "lineHeight": "{font-leading-tight}",
-      "fontSize": "{font-size-lg}"
+      "fontSize": "18px",
+      "fontFamily": "Gill Sans Nova",
+      "fontWeight": "700",
+      "lineHeight": "125%"
     },
     "type": "typography"
   }

@@ -1,9 +1,5 @@
 {
-  "tab-group-vertical-color-background": {
-    "value": "{color-ui-50}",
-    "type": "color"
-  },
-  "tab-group-contained-color-background": {
+  "tab-group-horizontal-color-background": {
     "value": "transparent",
     "type": "color"
   },
@@ -11,8 +7,12 @@
     "value": "{spacing-4}",
     "type": "spacing"
   },
-  "tab-group-horizontal-color-background": {
-    "value": "transparent",
+  "tab-group-contained-color-background": {
+    "value": "{color-ui-25}",
+    "type": "color"
+  },
+  "tab-group-vertical-color-background": {
+    "value": "{color-ui-50}",
     "type": "color"
   }
 }

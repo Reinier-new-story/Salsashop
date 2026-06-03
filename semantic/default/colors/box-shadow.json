@@ -1,58 +1,22 @@
 {
-  "color-box-shadow-none": {
-    "value": "{color-box-shadow-base}",
-    "type": "color",
-    "$extensions": {
-      "studio.tokens": {
-        "modify": {
-          "type": "alpha",
-          "value": "0",
-          "space": "lch"
-        }
-      }
-    }
-  },
   "color-box-shadow-base": {
     "value": "{black.black-100}",
     "type": "color"
   },
-  "color-box-shadow-sm": {
-    "value": "{color-box-shadow-base}",
-    "type": "color",
-    "$extensions": {
-      "studio.tokens": {
-        "modify": {
-          "type": "alpha",
-          "value": "0.05",
-          "space": "lch"
-        }
-      }
-    }
+  "color-box-shadow-lg": {
+    "value": "lch(0.00 0.00 0.00 / 0.25)",
+    "type": "color"
   },
   "color-box-shadow-md": {
-    "value": "{color-box-shadow-base}",
-    "type": "color",
-    "$extensions": {
-      "studio.tokens": {
-        "modify": {
-          "type": "alpha",
-          "value": "0.1",
-          "space": "lch"
-        }
-      }
-    }
+    "value": "lch(0.00 0.00 0.00 / 0.10)",
+    "type": "color"
   },
-  "color-box-shadow-lg": {
-    "value": "{color-box-shadow-base}",
-    "type": "color",
-    "$extensions": {
-      "studio.tokens": {
-        "modify": {
-          "type": "alpha",
-          "value": "0.25",
-          "space": "lch"
-        }
-      }
-    }
+  "color-box-shadow-none": {
+    "value": "lch(0.00 0.00 0.00 / 0.00)",
+    "type": "color"
+  },
+  "color-box-shadow-sm": {
+    "value": "lch(0.00 0.00 0.00 / 0.05)",
+    "type": "color"
   }
 }

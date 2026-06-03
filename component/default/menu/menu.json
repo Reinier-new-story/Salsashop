@@ -1,7 +1,6 @@
 {
   "menu-gap": {
     "value": "{spacing-8}",
-    "type": "spacing",
-    "description": "space between menu-header and menu-items"
+    "type": "spacing"
   }
 }

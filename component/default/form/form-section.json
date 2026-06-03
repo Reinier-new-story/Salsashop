@@ -1,27 +1,15 @@
 {
-  "form-section-padding": {
-    "value": "{spacing-24}",
+  "form-section-header-gap": {
+    "value": "{spacing-2}",
     "type": "spacing"
   },
   "form-section-gap": {
     "value": "{spacing-24}",
     "type": "spacing"
   },
-  "form-section-border-bottom": {
-    "value": {
-      "color": "{color-ui-75}",
-      "width": "{border-width-1}",
-      "style": "solid"
-    },
-    "type": "border"
-  },
-  "form-section-header-font-title": {
-    "value": "{heading-sm}",
-    "type": "typography"
-  },
-  "form-section-header-font-description": {
-    "value": "{text-base}",
-    "type": "typography"
+  "form-section-padding": {
+    "value": "{spacing-24}",
+    "type": "spacing"
   },
   "form-section-header-color-text-title": {
     "value": "{color-text-dark.color-text-dark-primary}",
@@ -31,8 +19,20 @@
     "value": "{color-text-dark.color-text-dark-secondary}",
     "type": "color"
   },
-  "form-section-header-gap": {
-    "value": "{spacing-2}",
-    "type": "spacing"
+  "form-section-border-bottom": {
+    "value": {
+      "color": "oklch(0.881 0.000 0.0)",
+      "style": "solid",
+      "width": "1px"
+    },
+    "type": "border"
+  },
+  "form-section-header-font-description": {
+    "value": "{text-base}",
+    "type": "typography"
+  },
+  "form-section-header-font-title": {
+    "value": "{heading-sm}",
+    "type": "typography"
   }
 }

@@ -1,260 +1,267 @@
 {
-  "text-xs": {
-    "value": {
-      "fontFamily": "{font-family-default}",
-      "fontWeight": "{font-weight-regular}",
-      "fontSize": "{font-size-xs}",
-      "lineHeight": "{font-leading-loose}"
-    },
-    "type": "typography"
-  },
-  "text-sm": {
-    "value": {
-      "fontFamily": "{font-family-default}",
-      "fontWeight": "{font-weight-regular}",
-      "lineHeight": "{font-leading-relaxed}",
-      "fontSize": "{font-size-sm}"
-    },
-    "type": "typography"
-  },
-  "text-base": {
-    "value": {
-      "fontFamily": "{font-family-default}",
-      "fontWeight": "{font-weight-regular}",
-      "lineHeight": "{font-leading-relaxed}",
-      "fontSize": "{font-size-base}"
-    },
-    "type": "typography"
-  },
-  "text-lg": {
-    "value": {
-      "fontFamily": "{font-family-default}",
-      "fontWeight": "{font-weight-regular}",
-      "lineHeight": "{font-leading-normal}",
-      "fontSize": "{font-size-lg}"
-    },
-    "type": "typography"
-  },
-  "text-xl": {
-    "value": {
-      "fontFamily": "{font-family-default}",
-      "fontWeight": "{font-weight-regular}",
-      "lineHeight": "{font-leading-snug}",
-      "fontSize": "{font-size-xl}"
-    },
-    "type": "typography"
-  },
   "text-2xl": {
     "value": {
-      "fontFamily": "{font-family-default}",
-      "fontWeight": "{font-weight-regular}",
-      "lineHeight": "{font-leading-tight}",
-      "fontSize": "{font-size-2xl}"
+      "fontSize": "24px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "400",
+      "lineHeight": "125%"
     },
     "type": "typography"
   },
   "text-3xl": {
     "value": {
-      "fontFamily": "{font-family-default}",
-      "fontWeight": "{font-weight-regular}",
-      "lineHeight": "{font-leading-tight}",
-      "fontSize": "{font-size-3xl}"
+      "fontSize": "30px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "400",
+      "lineHeight": "125%"
     },
     "type": "typography"
   },
-  "text-bold-xs": {
+  "text-base": {
     "value": {
-      "fontFamily": "{font-family-default}",
-      "fontWeight": "{font-weight-bold}",
-      "fontSize": "{font-size-xs}",
-      "lineHeight": "{font-leading-loose}"
-    },
-    "type": "typography"
-  },
-  "text-bold-sm": {
-    "value": {
-      "fontFamily": "{font-family-default}",
-      "fontWeight": "{font-weight-bold}",
-      "lineHeight": "{font-leading-relaxed}",
-      "fontSize": "{font-size-sm}"
-    },
-    "type": "typography"
-  },
-  "text-bold-base": {
-    "value": {
-      "fontFamily": "{font-family-default}",
-      "fontWeight": "{font-weight-bold}",
-      "lineHeight": "{font-leading-relaxed}",
-      "fontSize": "{font-size-base}"
-    },
-    "type": "typography"
-  },
-  "text-bold-lg": {
-    "value": {
-      "fontFamily": "{font-family-default}",
-      "fontWeight": "{font-weight-bold}",
-      "lineHeight": "{font-leading-normal}",
-      "fontSize": "{font-size-lg}"
-    },
-    "type": "typography"
-  },
-  "text-bold-xl": {
-    "value": {
-      "fontFamily": "{font-family-default}",
-      "fontWeight": "{font-weight-bold}",
-      "lineHeight": "{font-leading-snug}",
-      "fontSize": "{font-size-xl}"
+      "fontSize": "16px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "400",
+      "lineHeight": "162.5%"
     },
     "type": "typography"
   },
   "text-bold-2xl": {
     "value": {
-      "fontFamily": "{font-family-default}",
-      "fontWeight": "{font-weight-bold}",
-      "lineHeight": "{font-leading-tight}",
-      "fontSize": "{font-size-2xl}"
+      "fontSize": "24px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "700",
+      "lineHeight": "125%"
     },
     "type": "typography"
   },
   "text-bold-3xl": {
     "value": {
-      "fontFamily": "{font-family-default}",
-      "fontWeight": "{font-weight-bold}",
-      "lineHeight": "{font-leading-tight}",
-      "fontSize": "{font-size-3xl}"
+      "fontSize": "30px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "700",
+      "lineHeight": "125%"
     },
     "type": "typography"
   },
-  "text-italic-xs": {
+  "text-bold-base": {
     "value": {
-      "fontFamily": "{font-family-default}",
-      "fontWeight": "{font-weight-italic}",
-      "fontSize": "{font-size-xs}",
-      "lineHeight": "{font-leading-loose}"
+      "fontSize": "16px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "700",
+      "lineHeight": "162.5%"
     },
     "type": "typography"
   },
-  "text-italic-sm": {
+  "text-bold-lg": {
     "value": {
-      "fontFamily": "{font-family-default}",
-      "fontWeight": "{font-weight-italic}",
-      "lineHeight": "{font-leading-relaxed}",
-      "fontSize": "{font-size-sm}"
+      "fontSize": "18px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "700",
+      "lineHeight": "150%"
     },
     "type": "typography"
   },
-  "text-italic-base": {
+  "text-bold-sm": {
     "value": {
-      "fontFamily": "{font-family-default}",
-      "fontWeight": "{font-weight-italic}",
-      "lineHeight": "{font-leading-relaxed}",
-      "fontSize": "{font-size-base}"
+      "fontSize": "14px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "700",
+      "lineHeight": "162.5%"
     },
     "type": "typography"
   },
-  "text-italic-lg": {
+  "text-bold-xl": {
     "value": {
-      "fontFamily": "{font-family-default}",
-      "fontWeight": "{font-weight-italic}",
-      "lineHeight": "{font-leading-normal}",
-      "fontSize": "{font-size-lg}"
+      "fontSize": "20px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "700",
+      "lineHeight": "137.5%"
     },
     "type": "typography"
   },
-  "text-italic-xl": {
+  "text-bold-xs": {
     "value": {
-      "fontFamily": "{font-family-default}",
-      "fontWeight": "{font-weight-italic}",
-      "lineHeight": "{font-leading-snug}",
-      "fontSize": "{font-size-xl}"
+      "fontSize": "12px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "700",
+      "lineHeight": "200%"
     },
     "type": "typography"
   },
   "text-italic-2xl": {
     "value": {
-      "fontFamily": "{font-family-default}",
-      "fontWeight": "{font-weight-italic}",
-      "lineHeight": "{font-leading-tight}",
-      "fontSize": "{font-size-2xl}"
+      "fontSize": "24px",
+      "fontStyle": "italic",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "400",
+      "lineHeight": "125%"
     },
     "type": "typography"
   },
   "text-italic-3xl": {
     "value": {
-      "fontFamily": "{font-family-default}",
-      "fontWeight": "{font-weight-italic}",
-      "lineHeight": "{font-leading-tight}",
-      "fontSize": "{font-size-3xl}"
+      "fontSize": "30px",
+      "fontStyle": "italic",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "400",
+      "lineHeight": "125%"
     },
     "type": "typography"
   },
-  "text-underlined-xs": {
+  "text-italic-base": {
     "value": {
-      "fontFamily": "{font-family-default}",
-      "fontWeight": "{font-weight-regular}",
-      "fontSize": "{font-size-xs}",
-      "lineHeight": "{font-leading-loose}",
-      "textDecoration": "{font-textdecoration-underline}"
+      "fontSize": "16px",
+      "fontStyle": "italic",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "400",
+      "lineHeight": "162.5%"
     },
     "type": "typography"
   },
-  "text-underlined-sm": {
+  "text-italic-lg": {
     "value": {
-      "fontFamily": "{font-family-default}",
-      "fontWeight": "{font-weight-regular}",
-      "lineHeight": "{font-leading-relaxed}",
-      "fontSize": "{font-size-sm}",
-      "textDecoration": "{font-textdecoration-underline}"
+      "fontSize": "18px",
+      "fontStyle": "italic",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "400",
+      "lineHeight": "150%"
     },
     "type": "typography"
   },
-  "text-underlined-base": {
+  "text-italic-sm": {
     "value": {
-      "fontFamily": "{font-family-default}",
-      "fontWeight": "{font-weight-regular}",
-      "lineHeight": "{font-leading-relaxed}",
-      "fontSize": "{font-size-base}",
-      "textDecoration": "{font-textdecoration-underline}"
+      "fontSize": "14px",
+      "fontStyle": "italic",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "400",
+      "lineHeight": "162.5%"
     },
     "type": "typography"
   },
-  "text-underlined-lg": {
+  "text-italic-xl": {
     "value": {
-      "fontFamily": "{font-family-default}",
-      "fontWeight": "{font-weight-regular}",
-      "lineHeight": "{font-leading-normal}",
-      "fontSize": "{font-size-lg}",
-      "textDecoration": "{font-textdecoration-underline}"
+      "fontSize": "20px",
+      "fontStyle": "italic",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "400",
+      "lineHeight": "137.5%"
     },
     "type": "typography"
   },
-  "text-underlined-xl": {
+  "text-italic-xs": {
     "value": {
-      "fontFamily": "{font-family-default}",
-      "fontWeight": "{font-weight-regular}",
-      "lineHeight": "{font-leading-snug}",
-      "fontSize": "{font-size-xl}",
-      "textDecoration": "{font-textdecoration-underline}"
+      "fontSize": "12px",
+      "fontStyle": "italic",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "400",
+      "lineHeight": "200%"
+    },
+    "type": "typography"
+  },
+  "text-lg": {
+    "value": {
+      "fontSize": "18px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "400",
+      "lineHeight": "150%"
+    },
+    "type": "typography"
+  },
+  "text-sm": {
+    "value": {
+      "fontSize": "14px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "400",
+      "lineHeight": "162.5%"
     },
     "type": "typography"
   },
   "text-underlined-2xl": {
     "value": {
-      "fontFamily": "{font-family-default}",
-      "fontWeight": "{font-weight-regular}",
-      "lineHeight": "{font-leading-tight}",
-      "fontSize": "{font-size-2xl}",
-      "textDecoration": "{font-textdecoration-underline}"
+      "fontSize": "24px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "400",
+      "lineHeight": "125%",
+      "textDecoration": "underline"
     },
     "type": "typography"
   },
   "text-underlined-3xl": {
     "value": {
-      "fontFamily": "{font-family-default}",
-      "fontWeight": "{font-weight-regular}",
-      "lineHeight": "{font-leading-tight}",
-      "fontSize": "{font-size-3xl}",
-      "textDecoration": "{font-textdecoration-underline}"
+      "fontSize": "30px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "400",
+      "lineHeight": "125%",
+      "textDecoration": "underline"
+    },
+    "type": "typography"
+  },
+  "text-underlined-base": {
+    "value": {
+      "fontSize": "16px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "400",
+      "lineHeight": "162.5%",
+      "textDecoration": "underline"
+    },
+    "type": "typography"
+  },
+  "text-underlined-lg": {
+    "value": {
+      "fontSize": "18px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "400",
+      "lineHeight": "150%",
+      "textDecoration": "underline"
+    },
+    "type": "typography"
+  },
+  "text-underlined-sm": {
+    "value": {
+      "fontSize": "14px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "400",
+      "lineHeight": "162.5%",
+      "textDecoration": "underline"
+    },
+    "type": "typography"
+  },
+  "text-underlined-xl": {
+    "value": {
+      "fontSize": "20px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "400",
+      "lineHeight": "137.5%",
+      "textDecoration": "underline"
+    },
+    "type": "typography"
+  },
+  "text-underlined-xs": {
+    "value": {
+      "fontSize": "12px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "400",
+      "lineHeight": "200%",
+      "textDecoration": "underline"
+    },
+    "type": "typography"
+  },
+  "text-xl": {
+    "value": {
+      "fontSize": "20px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "400",
+      "lineHeight": "137.5%"
+    },
+    "type": "typography"
+  },
+  "text-xs": {
+    "value": {
+      "fontSize": "12px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "400",
+      "lineHeight": "200%"
     },
     "type": "typography"
   }

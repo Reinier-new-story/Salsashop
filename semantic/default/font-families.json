@@ -1,66 +1,70 @@
 {
-  "font-family-display": {
-    "value": "{font-family-bowlby}",
-    "type": "fontFamilies"
-  },
-  "font-family-heading": {
-    "value": "{font-family-nunito}",
-    "type": "fontFamilies"
-  },
-  "font-family-default": {
-    "value": "{font-family-inter}",
-    "type": "fontFamilies"
+  "font-family-accent": {
+    "value": "{font-family-baystar-script}",
+    "type": "fontFamily"
   },
   "font-family-button": {
-    "value": "{font-family-inter}",
-    "type": "fontFamilies"
+    "value": "{font-family-founders-grotesk}",
+    "type": "fontFamily"
+  },
+  "font-family-default": {
+    "value": "{font-family-founders-grotesk}",
+    "type": "fontFamily"
   },
   "font-family-input": {
-    "value": "{font-family-inter}",
-    "type": "fontFamilies"
+    "value": "{font-family-founders-grotesk}",
+    "type": "fontFamily"
   },
   "font-family-inputs": {
-    "value": "{font-family-inter}",
-    "type": "fontFamilies"
+    "value": "{font-family-founders-grotesk}",
+    "type": "fontFamily"
   },
   "font-family-link": {
-    "value": "{font-family-inter}",
-    "type": "fontFamilies"
+    "value": "{font-family-founders-grotesk}",
+    "type": "fontFamily"
   },
   "font-family-nav-item": {
-    "value": "{font-family-inter}",
-    "type": "fontFamilies"
+    "value": "{font-family-founders-grotesk}",
+    "type": "fontFamily"
   },
   "font-family-overline": {
-    "value": "{font-family-inter}",
-    "type": "fontFamilies"
+    "value": "{font-family-founders-grotesk}",
+    "type": "fontFamily"
   },
   "font-family-pagination": {
-    "value": "{font-family-inter}",
-    "type": "fontFamilies"
+    "value": "{font-family-founders-grotesk}",
+    "type": "fontFamily"
   },
   "font-family-price": {
-    "value": "{font-family-inter}",
-    "type": "fontFamilies"
+    "value": "{font-family-founders-grotesk}",
+    "type": "fontFamily"
   },
   "font-family-ribbon": {
-    "value": "{font-family-inter}",
-    "type": "fontFamilies"
+    "value": "{font-family-founders-grotesk}",
+    "type": "fontFamily"
   },
   "font-family-running-head": {
-    "value": "{font-family-inter}",
-    "type": "fontFamilies"
+    "value": "{font-family-founders-grotesk}",
+    "type": "fontFamily"
   },
   "font-family-tabs": {
-    "value": "{font-family-inter}",
-    "type": "fontFamilies"
+    "value": "{font-family-founders-grotesk}",
+    "type": "fontFamily"
   },
   "font-family-tag": {
-    "value": "{font-family-inter}",
-    "type": "fontFamilies"
+    "value": "{font-family-founders-grotesk}",
+    "type": "fontFamily"
   },
   "font-family-text": {
-    "value": "{font-family-inter}",
-    "type": "fontFamilies"
+    "value": "{font-family-founders-grotesk}",
+    "type": "fontFamily"
+  },
+  "font-family-display": {
+    "value": "{font-family-gill-sans-nova}",
+    "type": "fontFamily"
+  },
+  "font-family-heading": {
+    "value": "{font-family-gill-sans-nova}",
+    "type": "fontFamily"
   }
 }

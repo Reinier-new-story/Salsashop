@@ -1,18 +1,18 @@
 {
-  "button-spinner-primary-color-background": {
-    "value": "{color-primary.color-primary-100}33",
-    "type": "color"
-  },
-  "button-spinner-primary-color-circle": {
-    "value": "{color-primary.color-primary-100}",
-    "type": "color"
-  },
   "button-spinner-secondary-color-background": {
     "value": "{color-secondary.color-secondary-100}33",
     "type": "color"
   },
   "button-spinner-secondary-color-circle": {
     "value": "{color-secondary.color-secondary-100}",
+    "type": "color"
+  },
+  "button-spinner-primary-color-background": {
+    "value": "{color-primary.color-primary-100}33",
+    "type": "color"
+  },
+  "button-spinner-primary-color-circle": {
+    "value": "{color-primary.color-primary-100}",
     "type": "color"
   },
   "button-spinner-on-dark-color-background": {

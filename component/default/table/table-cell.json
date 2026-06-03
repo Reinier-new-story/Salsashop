@@ -1,39 +1,25 @@
 {
-  "table-cell-border": {
-    "value": "{table-border}",
-    "type": "border"
+  "table-cell-content-height-min": {
+    "value": "40px",
+    "type": "dimension"
   },
-  "table-cell-font-label": {
-    "value": {
-      "fontFamily": "{font-family-text}",
-      "fontWeight": "{font-weight-regular}",
-      "fontSize": "{font-size-base}",
-      "lineHeight": "{font-leading-none}",
-      "letterSpacing": "{font-tracking-normal}"
-    },
-    "type": "typography"
-  },
-  "table-cell-font-description": {
-    "value": "{text-sm}",
-    "type": "typography"
-  },
-  "table-cell-padding-x": {
-    "value": "{spacing-16}",
-    "type": "spacing"
-  },
-  "table-cell-padding-y": {
-    "value": "{spacing-8}",
-    "type": "spacing"
-  },
-  "table-cell-padding-x-tight": {
-    "value": "{spacing-16}",
-    "type": "spacing"
+  "table-cell-content-width-min": {
+    "value": "40px",
+    "type": "dimension"
   },
   "table-cell-padding-y-tight": {
     "value": "{spacing-0}",
     "type": "spacing"
   },
+  "table-cell-padding-x": {
+    "value": "{spacing-16}",
+    "type": "spacing"
+  },
   "table-cell-padding-x-loose": {
+    "value": "{spacing-16}",
+    "type": "spacing"
+  },
+  "table-cell-padding-x-tight": {
     "value": "{spacing-16}",
     "type": "spacing"
   },
@@ -41,9 +27,9 @@
     "value": "{spacing-16}",
     "type": "spacing"
   },
-  "table-cell-color-background": {
-    "value": "{color-ui-50}",
-    "type": "color"
+  "table-cell-padding-y": {
+    "value": "{spacing-8}",
+    "type": "spacing"
   },
   "table-cell-color-label": {
     "value": "{color-text-dark.color-text-dark-primary}",
@@ -53,16 +39,30 @@
     "value": "{color-text-dark.color-text-dark-secondary}",
     "type": "color"
   },
+  "table-cell-color-background": {
+    "value": "{color-ui-50}",
+    "type": "color"
+  },
   "table-cell-color-background-hover": {
     "value": "{color-ui-75}",
     "type": "color"
   },
-  "table-cell-content-height-min": {
-    "value": "40px",
-    "type": "dimension"
+  "table-cell-font-label": {
+    "value": {
+      "fontSize": "16px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "400",
+      "lineHeight": "100%",
+      "letterSpacing": "0em"
+    },
+    "type": "typography"
   },
-  "table-cell-content-width-min": {
-    "value": "40px",
-    "type": "dimension"
+  "table-cell-font-description": {
+    "value": "{text-sm}",
+    "type": "typography"
+  },
+  "table-cell-border": {
+    "value": "{table-border}",
+    "type": "border"
   }
 }

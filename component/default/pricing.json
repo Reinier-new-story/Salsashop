@@ -1,76 +1,13 @@
 {
-  "pricing-font-current-price-currency": {
-    "value": {
-      "fontFamily": "{font-family-text}",
-      "fontWeight": "{font-weight-bold}",
-      "fontSize": "{font-size-2xl}",
-      "lineHeight": "{font-leading-tight}"
-    },
-    "type": "typography"
-  },
-  "pricing-font-former-price-currency": {
-    "value": {
-      "fontFamily": "{font-family-text}",
-      "fontWeight": "{font-weight-bold}",
-      "fontSize": "{font-size-base}",
-      "lineHeight": "{font-leading-relaxed}"
-    },
-    "type": "typography"
-  },
-  "pricing-font-current-price-integer": {
-    "value": {
-      "fontFamily": "{font-family-text}",
-      "fontWeight": "{font-weight-bold}",
-      "fontSize": "{font-size-2xl}",
-      "lineHeight": "{font-leading-tight}"
-    },
-    "type": "typography"
-  },
-  "pricing-font-former-price-integer": {
-    "value": {
-      "fontFamily": "{font-family-text}",
-      "fontWeight": "{font-weight-bold}",
-      "fontSize": "{font-size-base}",
-      "lineHeight": "{font-leading-relaxed}"
-    },
-    "type": "typography"
-  },
-  "pricing-font-current-price-decimal": {
-    "value": {
-      "fontFamily": "{font-family-text}",
-      "fontWeight": "{font-weight-bold}",
-      "fontSize": "{font-size-base}",
-      "lineHeight": "{font-leading-relaxed}"
-    },
-    "type": "typography"
-  },
-  "pricing-font-former-price-decimal": {
-    "value": {
-      "fontFamily": "{font-family-text}",
-      "fontWeight": "{font-weight-bold}",
-      "fontSize": "{font-size-xs}",
-      "lineHeight": "{font-leading-loose}"
-    },
-    "type": "typography"
-  },
-  "pricing-font-conditions": {
-    "value": {
-      "fontFamily": "{font-family-text}",
-      "fontWeight": "{font-weight-italic}",
-      "fontSize": "{font-size-sm}",
-      "lineHeight": "{font-leading-relaxed}"
-    },
-    "type": "typography"
-  },
-  "pricing-gap": {
-    "value": "{spacing-4}",
-    "type": "spacing"
-  },
   "pricing-gap-prices": {
     "value": "{spacing-0}",
     "type": "spacing"
   },
-  "pricing-gap-prices-inline": {
+  "pricing-gap-former-price": {
+    "value": "{spacing-2}",
+    "type": "spacing"
+  },
+  "pricing-gap": {
     "value": "{spacing-4}",
     "type": "spacing"
   },
@@ -78,25 +15,9 @@
     "value": "{spacing-4}",
     "type": "spacing"
   },
-  "pricing-gap-former-price": {
-    "value": "{spacing-2}",
+  "pricing-gap-prices-inline": {
+    "value": "{spacing-4}",
     "type": "spacing"
-  },
-  "pricing-border-strike": {
-    "value": {
-      "width": "{border-width-1}",
-      "style": "solid",
-      "color": "{pricing-color-strike}"
-    },
-    "type": "border"
-  },
-  "pricing-color-strike": {
-    "value": "{color-text-dark.color-text-dark-tertiary}",
-    "type": "color"
-  },
-  "pricing-color-former-price": {
-    "value": "{color-text-dark.color-text-dark-tertiary}",
-    "type": "color"
   },
   "pricing-color-current-price": {
     "value": "{color-text-dark.color-text-dark-primary}",
@@ -105,5 +26,85 @@
   "pricing-color-conditions": {
     "value": "{color-text-dark.color-text-dark-secondary}",
     "type": "color"
+  },
+  "pricing-color-former-price": {
+    "value": "{color-text-dark.color-text-dark-tertiary}",
+    "type": "color"
+  },
+  "pricing-color-strike": {
+    "value": "{color-text-dark.color-text-dark-tertiary}",
+    "type": "color"
+  },
+  "pricing-font-conditions": {
+    "value": {
+      "fontSize": "14px",
+      "fontStyle": "italic",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "400",
+      "lineHeight": "162.5%"
+    },
+    "type": "typography"
+  },
+  "pricing-font-current-price-currency": {
+    "value": {
+      "fontSize": "24px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "700",
+      "lineHeight": "125%"
+    },
+    "type": "typography"
+  },
+  "pricing-font-current-price-decimal": {
+    "value": {
+      "fontSize": "16px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "700",
+      "lineHeight": "162.5%"
+    },
+    "type": "typography"
+  },
+  "pricing-font-current-price-integer": {
+    "value": {
+      "fontSize": "24px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "700",
+      "lineHeight": "125%"
+    },
+    "type": "typography"
+  },
+  "pricing-font-former-price-currency": {
+    "value": {
+      "fontSize": "16px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "700",
+      "lineHeight": "162.5%"
+    },
+    "type": "typography"
+  },
+  "pricing-font-former-price-decimal": {
+    "value": {
+      "fontSize": "12px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "700",
+      "lineHeight": "200%"
+    },
+    "type": "typography"
+  },
+  "pricing-font-former-price-integer": {
+    "value": {
+      "fontSize": "16px",
+      "fontFamily": "Founders Grotesk",
+      "fontWeight": "700",
+      "lineHeight": "162.5%"
+    },
+    "type": "typography"
+  },
+  "pricing-border-strike": {
+    "value": {
+      "color": "lch(0.00 0.00 0.00 / 0.55)",
+      "style": "solid",
+      "width": "1px"
+    },
+    "type": "border"
   }
 }

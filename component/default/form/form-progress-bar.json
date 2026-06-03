@@ -1,12 +1,4 @@
 {
-  "form-progress-bar-padding-x": {
-    "value": "{spacing-24}",
-    "type": "spacing"
-  },
-  "form-progress-bar-padding-top": {
-    "value": "{spacing-24}",
-    "type": "spacing"
-  },
   "form-progress-bar-bars-gap": {
     "value": "{spacing-2}",
     "type": "spacing"
@@ -19,28 +11,36 @@
     "value": "{spacing-2}",
     "type": "spacing"
   },
-  "form-progress-bar-font-step-indicator": {
-    "value": "{text-xs}",
-    "type": "typography"
+  "form-progress-bar-padding-top": {
+    "value": "{spacing-24}",
+    "type": "spacing"
   },
-  "form-progress-bar-font-step-indicator-emphasis": {
-    "value": "{text-bold-xs}",
-    "type": "typography"
+  "form-progress-bar-padding-x": {
+    "value": "{spacing-24}",
+    "type": "spacing"
+  },
+  "form-progress-bar-color-icon": {
+    "value": "{color-text-dark.color-text-dark-tertiary}",
+    "type": "color"
   },
   "form-progress-bar-color-text": {
     "value": "{color-text-dark.color-text-dark-tertiary}",
     "type": "color"
   },
-  "form-progress-bar-color-icon": {
-    "value": "{color-text-dark.color-text-dark-tertiary}",
+  "form-progress-bar-bar-color-background-active": {
+    "value": "{color-primary.color-primary-100}",
     "type": "color"
   },
   "form-progress-bar-bar-color-background": {
     "value": "{color-ui-75}",
     "type": "color"
   },
-  "form-progress-bar-bar-color-background-active": {
-    "value": "{color-primary.color-primary-100}",
-    "type": "color"
+  "form-progress-bar-font-step-indicator-emphasis": {
+    "value": "{text-bold-xs}",
+    "type": "typography"
+  },
+  "form-progress-bar-font-step-indicator": {
+    "value": "{text-xs}",
+    "type": "typography"
   }
 }

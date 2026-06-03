@@ -1,19 +1,11 @@
 {
-  "form-header-padding": {
-    "value": "{spacing-24}",
-    "type": "spacing"
-  },
   "form-header-gap": {
     "value": "{spacing-2}",
     "type": "spacing"
   },
-  "form-header-font-title": {
-    "value": "{heading-base}",
-    "type": "typography"
-  },
-  "form-header-font-description": {
-    "value": "{text-base}",
-    "type": "typography"
+  "form-header-padding": {
+    "value": "{spacing-24}",
+    "type": "spacing"
   },
   "form-header-color-text-title": {
     "value": "{color-text-dark.color-text-dark-primary}",
@@ -22,5 +14,13 @@
   "form-header-color-text-description": {
     "value": "{color-text-dark.color-text-dark-secondary}",
     "type": "color"
+  },
+  "form-header-font-description": {
+    "value": "{text-base}",
+    "type": "typography"
+  },
+  "form-header-font-title": {
+    "value": "{heading-base}",
+    "type": "typography"
   }
 }

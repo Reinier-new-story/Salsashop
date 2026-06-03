@@ -1,14 +1,14 @@
 {
-  "tab-panel-color-background": {
-    "value": "{color-base-white}",
-    "type": "color"
+  "tab-panel-padding": {
+    "value": "{spacing-24}",
+    "type": "spacing"
   },
   "tab-panel-contained-color-background": {
     "value": "{color-ui-50}",
     "type": "color"
   },
-  "tab-panel-padding": {
-    "value": "{spacing-24}",
-    "type": "spacing"
+  "tab-panel-color-background": {
+    "value": "{color-base-white}",
+    "type": "color"
   }
 }
